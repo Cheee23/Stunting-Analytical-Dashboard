@@ -356,7 +356,7 @@ def main():
                                                             'Konseling Gizi Bagi Orang Tua (L)','Konseling Gizi Bagi Orang Tua (P)',
                                                             'Kunjungan Rumah','Kepemilikan Akses Air Bersih','Kepemilikan Jamban Sehat',
                                                             'Akta Lahir','Jaminan Kesehatan','Pengasuhan (PAUD)'])
-            AgGrid(clean_db_ibu)
+            AgGrid(clean_db_anak)
             
             st.download_button("Download Data anak", clean_db_anak.to_csv(),file_name = 'data_anak.csv', mime = 'text/csv')
             
