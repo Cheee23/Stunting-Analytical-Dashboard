@@ -35,4 +35,4 @@ streamlit run app.py
 We welcome contributions to this project! If you have ideas for improvements or new features, please open an issue or submit a pull request.
 
 # License 📝
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/fiqgant/Stunting-Analytical-Dashboard/blob/main/LICENSE) file for details.
